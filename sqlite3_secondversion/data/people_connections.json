@@ -1,0 +1,1569 @@
+{
+    "1": {
+        "homeworld": [
+            "1"
+        ],
+        "films": [
+            "1",
+            "2",
+            "3",
+            "6"
+        ],
+        "species": [
+            "1",
+            "2",
+            "3",
+            "6"
+        ],
+        "vehicles": [
+            "14",
+            "30"
+        ],
+        "starships": [
+            "12",
+            "22"
+        ]
+    },
+    "2": {
+        "homeworld": [
+            "1"
+        ],
+        "films": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "species": [
+            "2"
+        ],
+        "vehicles": [
+            "2"
+        ],
+        "starships": [
+            "2"
+        ]
+    },
+    "3": {
+        "homeworld": [
+            "8"
+        ],
+        "films": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "species": [
+            "2"
+        ],
+        "vehicles": [
+            "2"
+        ],
+        "starships": [
+            "2"
+        ]
+    },
+    "4": {
+        "homeworld": [
+            "1"
+        ],
+        "films": [
+            "1",
+            "2",
+            "3",
+            "6"
+        ],
+        "species": [
+            "1",
+            "2",
+            "3",
+            "6"
+        ],
+        "vehicles": [
+            "1",
+            "2",
+            "3",
+            "6"
+        ],
+        "starships": [
+            "13"
+        ]
+    },
+    "5": {
+        "homeworld": [
+            "2"
+        ],
+        "films": [
+            "1",
+            "2",
+            "3",
+            "6"
+        ],
+        "species": [
+            "1",
+            "2",
+            "3",
+            "6"
+        ],
+        "vehicles": [
+            "30"
+        ],
+        "starships": [
+            "30"
+        ]
+    },
+    "6": {
+        "homeworld": [
+            "1"
+        ],
+        "films": [
+            "1",
+            "5",
+            "6"
+        ],
+        "species": [
+            "1",
+            "5",
+            "6"
+        ],
+        "vehicles": [
+            "1",
+            "5",
+            "6"
+        ],
+        "starships": [
+            "1",
+            "5",
+            "6"
+        ]
+    },
+    "7": {
+        "homeworld": [
+            "1"
+        ],
+        "films": [
+            "1",
+            "5",
+            "6"
+        ],
+        "species": [
+            "1",
+            "5",
+            "6"
+        ],
+        "vehicles": [
+            "1",
+            "5",
+            "6"
+        ],
+        "starships": [
+            "1",
+            "5",
+            "6"
+        ]
+    },
+    "8": {
+        "homeworld": [
+            "1"
+        ],
+        "films": [
+            "1"
+        ],
+        "species": [
+            "2"
+        ],
+        "vehicles": [
+            "2"
+        ],
+        "starships": [
+            "2"
+        ]
+    },
+    "9": {
+        "homeworld": [
+            "1"
+        ],
+        "films": [
+            "1"
+        ],
+        "species": [
+            "1"
+        ],
+        "vehicles": [
+            "1"
+        ],
+        "starships": [
+            "12"
+        ]
+    },
+    "10": {
+        "homeworld": [
+            "20"
+        ],
+        "films": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "species": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "vehicles": [
+            "38"
+        ],
+        "starships": [
+            "48",
+            "59",
+            "64",
+            "65",
+            "74"
+        ]
+    },
+    "11": {
+        "homeworld": [
+            "1"
+        ],
+        "films": [
+            "4",
+            "5",
+            "6"
+        ],
+        "species": [
+            "4",
+            "5",
+            "6"
+        ],
+        "vehicles": [
+            "44",
+            "46"
+        ],
+        "starships": [
+            "39",
+            "59",
+            "65"
+        ]
+    },
+    "12": {
+        "homeworld": [
+            "21"
+        ],
+        "films": [
+            "1",
+            "6"
+        ],
+        "species": [
+            "1",
+            "6"
+        ],
+        "vehicles": [
+            "1",
+            "6"
+        ],
+        "starships": [
+            "1",
+            "6"
+        ]
+    },
+    "13": {
+        "homeworld": [
+            "14"
+        ],
+        "films": [
+            "1",
+            "2",
+            "3",
+            "6"
+        ],
+        "species": [
+            "3"
+        ],
+        "vehicles": [
+            "19"
+        ],
+        "starships": [
+            "10",
+            "22"
+        ]
+    },
+    "14": {
+        "homeworld": [
+            "22"
+        ],
+        "films": [
+            "1",
+            "2",
+            "3"
+        ],
+        "species": [
+            "1",
+            "2",
+            "3"
+        ],
+        "vehicles": [
+            "1",
+            "2",
+            "3"
+        ],
+        "starships": [
+            "10",
+            "22"
+        ]
+    },
+    "15": {
+        "homeworld": [
+            "23"
+        ],
+        "films": [
+            "1"
+        ],
+        "species": [
+            "4"
+        ],
+        "vehicles": [
+            "4"
+        ],
+        "starships": [
+            "4"
+        ]
+    },
+    "16": {
+        "homeworld": [
+            "24"
+        ],
+        "films": [
+            "1",
+            "3",
+            "4"
+        ],
+        "species": [
+            "5"
+        ],
+        "vehicles": [
+            "5"
+        ],
+        "starships": [
+            "5"
+        ]
+    },
+    "18": {
+        "homeworld": [
+            "22"
+        ],
+        "films": [
+            "1",
+            "2",
+            "3"
+        ],
+        "species": [
+            "1",
+            "2",
+            "3"
+        ],
+        "vehicles": [
+            "14"
+        ],
+        "starships": [
+            "12"
+        ]
+    },
+    "19": {
+        "homeworld": [
+            "26"
+        ],
+        "films": [
+            "1"
+        ],
+        "species": [
+            "1"
+        ],
+        "vehicles": [
+            "1"
+        ],
+        "starships": [
+            "12"
+        ]
+    },
+    "20": {
+        "homeworld": [
+            "28"
+        ],
+        "films": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "species": [
+            "6"
+        ],
+        "vehicles": [
+            "6"
+        ],
+        "starships": [
+            "6"
+        ]
+    },
+    "21": {
+        "homeworld": [
+            "8"
+        ],
+        "films": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "species": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "vehicles": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "starships": [
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ]
+    },
+    "22": {
+        "homeworld": [
+            "10"
+        ],
+        "films": [
+            "2",
+            "3",
+            "5"
+        ],
+        "species": [
+            "2",
+            "3",
+            "5"
+        ],
+        "vehicles": [
+            "2",
+            "3",
+            "5"
+        ],
+        "starships": [
+            "21"
+        ]
+    },
+    "23": {
+        "homeworld": [
+            "28"
+        ],
+        "films": [
+            "2"
+        ],
+        "species": [
+            "2"
+        ],
+        "vehicles": [
+            "2"
+        ],
+        "starships": [
+            "2"
+        ]
+    },
+    "24": {
+        "homeworld": [
+            "29"
+        ],
+        "films": [
+            "2"
+        ],
+        "species": [
+            "7"
+        ],
+        "vehicles": [
+            "7"
+        ],
+        "starships": [
+            "7"
+        ]
+    },
+    "25": {
+        "homeworld": [
+            "30"
+        ],
+        "films": [
+            "2",
+            "3"
+        ],
+        "species": [
+            "2",
+            "3"
+        ],
+        "vehicles": [
+            "2",
+            "3"
+        ],
+        "starships": [
+            "10"
+        ]
+    },
+    "26": {
+        "homeworld": [
+            "6"
+        ],
+        "films": [
+            "2"
+        ],
+        "species": [
+            "2"
+        ],
+        "vehicles": [
+            "2"
+        ],
+        "starships": [
+            "2"
+        ]
+    },
+    "27": {
+        "homeworld": [
+            "31"
+        ],
+        "films": [
+            "3"
+        ],
+        "species": [
+            "8"
+        ],
+        "vehicles": [
+            "8"
+        ],
+        "starships": [
+            "8"
+        ]
+    },
+    "28": {
+        "homeworld": [
+            "32"
+        ],
+        "films": [
+            "3"
+        ],
+        "species": [
+            "3"
+        ],
+        "vehicles": [
+            "3"
+        ],
+        "starships": [
+            "3"
+        ]
+    },
+    "29": {
+        "homeworld": [
+            "28"
+        ],
+        "films": [
+            "3"
+        ],
+        "species": [
+            "3"
+        ],
+        "vehicles": [
+            "3"
+        ],
+        "starships": [
+            "28"
+        ]
+    },
+    "30": {
+        "homeworld": [
+            "7"
+        ],
+        "films": [
+            "3"
+        ],
+        "species": [
+            "9"
+        ],
+        "vehicles": [
+            "9"
+        ],
+        "starships": [
+            "9"
+        ]
+    },
+    "31": {
+        "homeworld": [
+            "33"
+        ],
+        "films": [
+            "3"
+        ],
+        "species": [
+            "10"
+        ],
+        "vehicles": [
+            "10"
+        ],
+        "starships": [
+            "10"
+        ]
+    },
+    "32": {
+        "homeworld": [
+            "28"
+        ],
+        "films": [
+            "4"
+        ],
+        "species": [
+            "4"
+        ],
+        "vehicles": [
+            "38"
+        ],
+        "starships": [
+            "38"
+        ]
+    },
+    "33": {
+        "homeworld": [
+            "18"
+        ],
+        "films": [
+            "4",
+            "5",
+            "6"
+        ],
+        "species": [
+            "11"
+        ],
+        "vehicles": [
+            "11"
+        ],
+        "starships": [
+            "11"
+        ]
+    },
+    "34": {
+        "homeworld": [
+            "9"
+        ],
+        "films": [
+            "4"
+        ],
+        "species": [
+            "4"
+        ],
+        "vehicles": [
+            "4"
+        ],
+        "starships": [
+            "4"
+        ]
+    },
+    "35": {
+        "homeworld": [
+            "8"
+        ],
+        "films": [
+            "4",
+            "5",
+            "6"
+        ],
+        "species": [
+            "4",
+            "5",
+            "6"
+        ],
+        "vehicles": [
+            "4",
+            "5",
+            "6"
+        ],
+        "starships": [
+            "39",
+            "49",
+            "64"
+        ]
+    },
+    "36": {
+        "homeworld": [
+            "8"
+        ],
+        "films": [
+            "4",
+            "5"
+        ],
+        "species": [
+            "12"
+        ],
+        "vehicles": [
+            "12"
+        ],
+        "starships": [
+            "12"
+        ]
+    },
+    "37": {
+        "homeworld": [
+            "8"
+        ],
+        "films": [
+            "4"
+        ],
+        "species": [
+            "12"
+        ],
+        "vehicles": [
+            "12"
+        ],
+        "starships": [
+            "12"
+        ]
+    },
+    "38": {
+        "homeworld": [
+            "8"
+        ],
+        "films": [
+            "4"
+        ],
+        "species": [
+            "12"
+        ],
+        "vehicles": [
+            "12"
+        ],
+        "starships": [
+            "12"
+        ]
+    },
+    "39": {
+        "homeworld": [
+            "8"
+        ],
+        "films": [
+            "4"
+        ],
+        "species": [
+            "4"
+        ],
+        "vehicles": [
+            "4"
+        ],
+        "starships": [
+            "40"
+        ]
+    },
+    "40": {
+        "homeworld": [
+            "34"
+        ],
+        "films": [
+            "4",
+            "5"
+        ],
+        "species": [
+            "13"
+        ],
+        "vehicles": [
+            "13"
+        ],
+        "starships": [
+            "13"
+        ]
+    },
+    "41": {
+        "homeworld": [
+            "35"
+        ],
+        "films": [
+            "4"
+        ],
+        "species": [
+            "14"
+        ],
+        "vehicles": [
+            "14"
+        ],
+        "starships": [
+            "14"
+        ]
+    },
+    "42": {
+        "homeworld": [
+            "8"
+        ],
+        "films": [
+            "4"
+        ],
+        "species": [
+            "4"
+        ],
+        "vehicles": [
+            "4"
+        ],
+        "starships": [
+            "4"
+        ]
+    },
+    "43": {
+        "homeworld": [
+            "1"
+        ],
+        "films": [
+            "4",
+            "5"
+        ],
+        "species": [
+            "4",
+            "5"
+        ],
+        "vehicles": [
+            "4",
+            "5"
+        ],
+        "starships": [
+            "4",
+            "5"
+        ]
+    },
+    "44": {
+        "homeworld": [
+            "36"
+        ],
+        "films": [
+            "4"
+        ],
+        "species": [
+            "22"
+        ],
+        "vehicles": [
+            "42"
+        ],
+        "starships": [
+            "41"
+        ]
+    },
+    "45": {
+        "homeworld": [
+            "37"
+        ],
+        "films": [
+            "3"
+        ],
+        "species": [
+            "15"
+        ],
+        "vehicles": [
+            "15"
+        ],
+        "starships": [
+            "15"
+        ]
+    },
+    "46": {
+        "homeworld": [
+            "37"
+        ],
+        "films": [
+            "4",
+            "5",
+            "6"
+        ],
+        "species": [
+            "15"
+        ],
+        "vehicles": [
+            "15"
+        ],
+        "starships": [
+            "15"
+        ]
+    },
+    "47": {
+        "homeworld": [
+            "38"
+        ],
+        "films": [
+            "4"
+        ],
+        "species": [
+            "16"
+        ],
+        "vehicles": [
+            "16"
+        ],
+        "starships": [
+            "16"
+        ]
+    },
+    "48": {
+        "homeworld": [
+            "39"
+        ],
+        "films": [
+            "4"
+        ],
+        "species": [
+            "17"
+        ],
+        "vehicles": [
+            "17"
+        ],
+        "starships": [
+            "17"
+        ]
+    },
+    "49": {
+        "homeworld": [
+            "40"
+        ],
+        "films": [
+            "4"
+        ],
+        "species": [
+            "18"
+        ],
+        "vehicles": [
+            "18"
+        ],
+        "starships": [
+            "18"
+        ]
+    },
+    "50": {
+        "homeworld": [
+            "41"
+        ],
+        "films": [
+            "4"
+        ],
+        "species": [
+            "19"
+        ],
+        "vehicles": [
+            "19"
+        ],
+        "starships": [
+            "19"
+        ]
+    },
+    "51": {
+        "homeworld": [
+            "42"
+        ],
+        "films": [
+            "4",
+            "5",
+            "6"
+        ],
+        "species": [
+            "4",
+            "5",
+            "6"
+        ],
+        "vehicles": [
+            "4",
+            "5",
+            "6"
+        ],
+        "starships": [
+            "4",
+            "5",
+            "6"
+        ]
+    },
+    "52": {
+        "homeworld": [
+            "43"
+        ],
+        "films": [
+            "4",
+            "5",
+            "6"
+        ],
+        "species": [
+            "20"
+        ],
+        "vehicles": [
+            "20"
+        ],
+        "starships": [
+            "20"
+        ]
+    },
+    "53": {
+        "homeworld": [
+            "44"
+        ],
+        "films": [
+            "4",
+            "5",
+            "6"
+        ],
+        "species": [
+            "21"
+        ],
+        "vehicles": [
+            "21"
+        ],
+        "starships": [
+            "21"
+        ]
+    },
+    "54": {
+        "homeworld": [
+            "45"
+        ],
+        "films": [
+            "4",
+            "6"
+        ],
+        "species": [
+            "22"
+        ],
+        "vehicles": [
+            "22"
+        ],
+        "starships": [
+            "22"
+        ]
+    },
+    "55": {
+        "homeworld": [
+            "9"
+        ],
+        "films": [
+            "4",
+            "6"
+        ],
+        "species": [
+            "23"
+        ],
+        "vehicles": [
+            "23"
+        ],
+        "starships": [
+            "23"
+        ]
+    },
+    "56": {
+        "homeworld": [
+            "47"
+        ],
+        "films": [
+            "4",
+            "6"
+        ],
+        "species": [
+            "24"
+        ],
+        "vehicles": [
+            "24"
+        ],
+        "starships": [
+            "24"
+        ]
+    },
+    "57": {
+        "homeworld": [
+            "48"
+        ],
+        "films": [
+            "4"
+        ],
+        "species": [
+            "25"
+        ],
+        "vehicles": [
+            "25"
+        ],
+        "starships": [
+            "25"
+        ]
+    },
+    "58": {
+        "homeworld": [
+            "49"
+        ],
+        "films": [
+            "4",
+            "5",
+            "6"
+        ],
+        "species": [
+            "26"
+        ],
+        "vehicles": [
+            "26"
+        ],
+        "starships": [
+            "48"
+        ]
+    },
+    "59": {
+        "homeworld": [
+            "50"
+        ],
+        "films": [
+            "4",
+            "5"
+        ],
+        "species": [
+            "27"
+        ],
+        "vehicles": [
+            "27"
+        ],
+        "starships": [
+            "27"
+        ]
+    },
+    "60": {
+        "homeworld": [
+            "8"
+        ],
+        "films": [
+            "5"
+        ],
+        "species": [
+            "5"
+        ],
+        "vehicles": [
+            "5"
+        ],
+        "starships": [
+            "39"
+        ]
+    },
+    "61": {
+        "homeworld": [
+            "8"
+        ],
+        "films": [
+            "5"
+        ],
+        "species": [
+            "5"
+        ],
+        "vehicles": [
+            "5"
+        ],
+        "starships": [
+            "5"
+        ]
+    },
+    "62": {
+        "homeworld": [
+            "1"
+        ],
+        "films": [
+            "5"
+        ],
+        "species": [
+            "5"
+        ],
+        "vehicles": [
+            "5"
+        ],
+        "starships": [
+            "5"
+        ]
+    },
+    "63": {
+        "homeworld": [
+            "11"
+        ],
+        "films": [
+            "5",
+            "6"
+        ],
+        "species": [
+            "28"
+        ],
+        "vehicles": [
+            "28"
+        ],
+        "starships": [
+            "28"
+        ]
+    },
+    "64": {
+        "homeworld": [
+            "51"
+        ],
+        "films": [
+            "5",
+            "6"
+        ],
+        "species": [
+            "29"
+        ],
+        "vehicles": [
+            "29"
+        ],
+        "starships": [
+            "29"
+        ]
+    },
+    "65": {
+        "homeworld": [
+            "51"
+        ],
+        "films": [
+            "5"
+        ],
+        "species": [
+            "29"
+        ],
+        "vehicles": [
+            "29"
+        ],
+        "starships": [
+            "29"
+        ]
+    },
+    "66": {
+        "homeworld": [
+            "8"
+        ],
+        "films": [
+            "5"
+        ],
+        "species": [
+            "1"
+        ],
+        "vehicles": [
+            "1"
+        ],
+        "starships": [
+            "1"
+        ]
+    },
+    "67": {
+        "homeworld": [
+            "52"
+        ],
+        "films": [
+            "5",
+            "6"
+        ],
+        "species": [
+            "1"
+        ],
+        "vehicles": [
+            "55"
+        ],
+        "starships": [
+            "55"
+        ]
+    },
+    "68": {
+        "homeworld": [
+            "2"
+        ],
+        "films": [
+            "5",
+            "6"
+        ],
+        "species": [
+            "1"
+        ],
+        "vehicles": [
+            "1"
+        ],
+        "starships": [
+            "1"
+        ]
+    },
+    "69": {
+        "homeworld": [
+            "53"
+        ],
+        "films": [
+            "5"
+        ],
+        "species": [
+            "5"
+        ],
+        "vehicles": [
+            "5"
+        ],
+        "starships": [
+            "5"
+        ]
+    },
+    "70": {
+        "homeworld": [
+            "54"
+        ],
+        "films": [
+            "5"
+        ],
+        "species": [
+            "30"
+        ],
+        "vehicles": [
+            "45"
+        ],
+        "starships": [
+            "45"
+        ]
+    },
+    "71": {
+        "homeworld": [
+            "55"
+        ],
+        "films": [
+            "5"
+        ],
+        "species": [
+            "31"
+        ],
+        "vehicles": [
+            "31"
+        ],
+        "starships": [
+            "31"
+        ]
+    },
+    "72": {
+        "homeworld": [
+            "10"
+        ],
+        "films": [
+            "5"
+        ],
+        "species": [
+            "32"
+        ],
+        "vehicles": [
+            "32"
+        ],
+        "starships": [
+            "32"
+        ]
+    },
+    "73": {
+        "homeworld": [
+            "10"
+        ],
+        "films": [
+            "5"
+        ],
+        "species": [
+            "32"
+        ],
+        "vehicles": [
+            "32"
+        ],
+        "starships": [
+            "32"
+        ]
+    },
+    "74": {
+        "homeworld": [
+            "9"
+        ],
+        "films": [
+            "5"
+        ],
+        "species": [
+            "1"
+        ],
+        "vehicles": [
+            "1"
+        ],
+        "starships": [
+            "1"
+        ]
+    },
+    "75": {
+        "homeworld": [
+            "28"
+        ],
+        "films": [
+            "5",
+            "6"
+        ],
+        "species": [
+            "5",
+            "6"
+        ],
+        "vehicles": [
+            "5",
+            "6"
+        ],
+        "starships": [
+            "5",
+            "6"
+        ]
+    },
+    "76": {
+        "homeworld": [
+            "56"
+        ],
+        "films": [
+            "5"
+        ],
+        "species": [
+            "33"
+        ],
+        "vehicles": [
+            "33"
+        ],
+        "starships": [
+            "33"
+        ]
+    },
+    "77": {
+        "homeworld": [
+            "57"
+        ],
+        "films": [
+            "5"
+        ],
+        "species": [
+            "34"
+        ],
+        "vehicles": [
+            "34"
+        ],
+        "starships": [
+            "34"
+        ]
+    },
+    "78": {
+        "homeworld": [
+            "58"
+        ],
+        "films": [
+            "5",
+            "6"
+        ],
+        "species": [
+            "35"
+        ],
+        "vehicles": [
+            "35"
+        ],
+        "starships": [
+            "35"
+        ]
+    },
+    "79": {
+        "homeworld": [
+            "59"
+        ],
+        "films": [
+            "6"
+        ],
+        "species": [
+            "36"
+        ],
+        "vehicles": [
+            "60"
+        ],
+        "starships": [
+            "74"
+        ]
+    },
+    "80": {
+        "homeworld": [
+            "14"
+        ],
+        "films": [
+            "6"
+        ],
+        "species": [
+            "3"
+        ],
+        "vehicles": [
+            "3"
+        ],
+        "starships": [
+            "3"
+        ]
+    },
+    "81": {
+        "homeworld": [
+            "2"
+        ],
+        "films": [
+            "1",
+            "6"
+        ],
+        "species": [
+            "1",
+            "6"
+        ],
+        "vehicles": [
+            "1",
+            "6"
+        ],
+        "starships": [
+            "1",
+            "6"
+        ]
+    },
+    "82": {
+        "homeworld": [
+            "60"
+        ],
+        "films": [
+            "5",
+            "6"
+        ],
+        "species": [
+            "5",
+            "6"
+        ],
+        "vehicles": [
+            "5",
+            "6"
+        ],
+        "starships": [
+            "5",
+            "6"
+        ]
+    },
+    "83": {
+        "homeworld": [
+            "12"
+        ],
+        "films": [
+            "6"
+        ],
+        "species": [
+            "37"
+        ],
+        "vehicles": [
+            "37"
+        ],
+        "starships": [
+            "37"
+        ]
+    }
+}
