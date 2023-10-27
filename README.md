@@ -8,8 +8,9 @@ Key Takeaways:
 1. Before implementing code, it's essential to understand the data and define the question that needs to be solved. For instance, if we need to join tables, it's not appropriate to convert the list of URLs to a string. Instead, we should extract IDs from the URLs and create connection tables.
 2. Review similar online projects to understand the best practices concerning related issues. This can save a significant amount of time and effort in the future.
 3. Code-related Takeaways:
-   1. If we want to create a new dictionary inside the function. We could use .copy() to do it.
+   1. If we want to create a new dictionary inside the function. We could use `.copy()` to do it.
    2. For the insert SQL statement, the query should be passed by parameters and also in the form of tuples.
+   3. Before manipulating data directly in the databases(it's hard to do in Sqlite3), we could use Json to process the data. For exmaple, using `.pop` to update the column name.
 
 
 ## PostgreSQL Version
