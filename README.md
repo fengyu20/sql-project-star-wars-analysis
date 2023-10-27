@@ -3,7 +3,7 @@
 
 ## PostgreSQL Version
 
-Knowing the restrictions about Sqlite3, this folder is focus on doing this project based on PostgreSQL.
+This folder is focus on doing this project based on PostgreSQL.
 
 ### 0. Preparation
 
